@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1043659876422",
+    "project_id": "xbar-7a6c1",
+    "storage_bucket": "xbar-7a6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043659876422:android:20b814e3c53d97842c8247",
+        "android_client_info": {
+          "package_name": "com.xbarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043659876422-tgqsjn6omssgg6rt3v0bq001ppi3d542.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xbarapp",
+            "certificate_hash": "752d05c8120939ea061e73bdf95943771285d7db"
+          }
+        },
+        {
+          "client_id": "1043659876422-u1j5grv1rt6uip5evkg6sr8g3dmdpqj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xbarapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1043659876422-s5ep5424pjgpqgi9ieea6st3ug9broi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnA1YZ9XZqfZsaIqCZo-BYpqvFMmnFf5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043659876422-s5ep5424pjgpqgi9ieea6st3ug9broi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
