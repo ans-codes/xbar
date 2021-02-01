@@ -50,7 +50,7 @@ const ChangeCompanyName = ({navigation}) => {
         <View style={{alignItems: 'center', marginTop: wp(10)}}>
           <Text style={styles.invite}>Add Name and Confirm</Text>
           <TextInput
-            placeholder="LogicFab"
+            placeholder="xbar"
             style={styles.inputStyle}
             value={companyName}
             onChangeText={setCompanyName}
