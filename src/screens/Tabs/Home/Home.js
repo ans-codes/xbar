@@ -158,17 +158,17 @@ const Home = ({props}) => {
               left: 0,
             }}
             initialRegion={{
-              latitude: 31.4810164,
-              longitude: 74.3105454,
+              latitude: 37.4960164,
+              longitude: 74.7105454,
               latitudeDelta: 0.0922,
               longitudeDelta: 0.0421,
             }}>
             <Marker
               coordinate={{
-                latitude: 31.4810164,
-                longitude: 74.3105454,
+                latitude: 37.4960164,
+                longitude: 74.7105454,
               }}
-              title="LoginFab"
+              title="xbar"
               description="Software House"
             />
           </MapView>
